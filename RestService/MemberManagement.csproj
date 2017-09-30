@@ -95,6 +95,7 @@
     <EmbeddedResource Include="Javascript\css\downloaded_styles.css" />
     <EmbeddedResource Include="Javascript\css\Main.css" />
     <EmbeddedResource Include="Javascript\UserAccountController.js" />
+    <EmbeddedResource Include="img\pic1.bmp" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="MyService.svc" />
